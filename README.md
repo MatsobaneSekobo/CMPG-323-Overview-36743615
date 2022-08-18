@@ -4,8 +4,8 @@ To be used for all planning of the semester
 Repositories
 >Five repositories will be created for each project
 >Project 1  https://github.com/MatsobaneSekobo/CMPG-323-Overview-36743615
->Project 2  
->Project 3
+>Project 2  https://github.com/MatsobaneSekobo/CMPG-323-Project-5-36743615
+>Project 3  
 >Project 4
 >Project 5
 
